@@ -4,6 +4,7 @@ export default {
     extend: {
       fontFamily: {
         inter: ["Inter", "Avenir", "Helvetica", "Arial", "sans-serif"],
+        arial: ["Arial", "Avenir", "Helvetica", "sans-serif"],
       },
     },
   },
